@@ -1,0 +1,22 @@
+{
+ "v": 1,
+ "gardens": {
+  "momiji": [
+   {
+    "nickname": "bast",
+    "wave": 3,
+    "tag": "de1a88666be6e616216646ca",
+    "at": "2026-11-17T18:08:51.857Z",
+    "seed": 4122140218,
+    "density": 40,
+    "version": "0.225.0 1df8ce6d demo acts",
+    "maxDew": 410,
+    "boons": {},
+    "towers": {
+     "puff": 1
+    },
+    "diedTo": "grub"
+   }
+  ]
+ }
+}
