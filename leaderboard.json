@@ -3,6 +3,98 @@
  "gardens": {
   "momiji": [
    {
+    "nickname": "Rainy Otter 45",
+    "wave": 20,
+    "tag": "3cc32323d8f38a38fb82a9ab",
+    "at": "2026-11-16T08:35:51.134Z",
+    "seed": 3527253763,
+    "density": 48,
+    "version": "0.198.0 fa23ce03 demo acts",
+    "maxDew": 760,
+    "boons": {
+     "ripe_spores": 1,
+     "haunting": 3,
+     "solar_focus": 2,
+     "sticky_spores": 1,
+     "spore_cloud": 3,
+     "sporestorm": 1,
+     "puffball": 1,
+     "rot_bloom": 1,
+     "lingering": 1,
+     "quick_sap": 1,
+     "spring_rain": 2,
+     "kindred_wisps": 1,
+     "spirit_lantern": 1
+    },
+    "towers": {
+     "puff": 7,
+     "sun": 16,
+     "wisp": 2,
+     "toad": 1,
+     "lily": 6
+    },
+    "diedTo": null
+   },
+   {
+    "nickname": "Clover Acorn 79",
+    "wave": 18,
+    "tag": "748ff900529801655fdb9d0c",
+    "at": "2026-11-16T16:57:28.899Z",
+    "seed": 4218514889,
+    "density": 32,
+    "version": "0.183.0 fd8f6b0c acts",
+    "maxDew": 826,
+    "boons": {
+     "ripe_spores": 2,
+     "crit_bloom": 1,
+     "deep_roots": 3,
+     "prism": 3,
+     "haunting": 1,
+     "wild_growth": 1,
+     "grove": 1,
+     "sticky_spores": 1,
+     "spore_cloud": 2,
+     "solar_flare": 1,
+     "sporestorm": 1
+    },
+    "towers": {
+     "thorn": 2,
+     "puff": 7,
+     "sun": 8,
+     "wisp": 14,
+     "toad": 3
+    },
+    "diedTo": "crow"
+   },
+   {
+    "nickname": "Bonny Finch 38",
+    "wave": 15,
+    "tag": "ff86766332389b3c07b7c0a7",
+    "at": "2026-11-16T13:30:04.713Z",
+    "seed": 4266499017,
+    "density": 64,
+    "version": "0.98.0 d3595494",
+    "maxDew": 438,
+    "boons": {
+     "kindred_wisps": 3,
+     "dew_collector": 1,
+     "puffball": 1,
+     "solar_focus": 2,
+     "prism": 2,
+     "twin_seeds": 1,
+     "quick_sap": 1,
+     "spore_cloud": 2,
+     "rainbow": 1
+    },
+    "towers": {
+     "thorn": 10,
+     "puff": 9,
+     "sun": 10,
+     "wisp": 15
+    },
+    "diedTo": "spirit"
+   },
+   {
     "nickname": "bast",
     "wave": 3,
     "tag": "de1a88666be6e616216646ca",
@@ -16,6 +108,23 @@
      "puff": 1
     },
     "diedTo": "grub"
+   },
+   {
+    "nickname": "Cosmic Owl 67",
+    "wave": 2,
+    "tag": "3a0a9378ac0a97d0cea2de2f",
+    "at": "2026-11-16T07:16:48.894Z",
+    "seed": 3377136122,
+    "density": 64,
+    "version": "0.197.0 a7969f84 demo acts",
+    "maxDew": 129,
+    "boons": {
+     "dew_collector": 1
+    },
+    "towers": {
+     "thorn": 1
+    },
+    "diedTo": "beetle"
    }
   ]
  }
