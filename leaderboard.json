@@ -38,39 +38,6 @@
     "kills": 1751
    },
    {
-    "nickname": "alexh",
-    "wave": 21,
-    "tag": "46fa031354ecbf2c36a7bc09",
-    "at": "2026-11-15T14:02:51.622Z",
-    "seed": 3644000138,
-    "density": 64,
-    "version": "0.170.0 ba1c8ca2 demo acts",
-    "maxDew": 646,
-    "boons": {
-     "dew_collector": 3,
-     "rot_bloom": 1,
-     "sticky_spores": 2,
-     "deep_roots": 3,
-     "solar_focus": 3,
-     "prism": 3,
-     "spirit_lantern": 2,
-     "lingering": 1,
-     "rainbow": 1,
-     "ripe_spores": 1,
-     "spring_rain": 1
-    },
-    "towers": {
-     "puff": 9,
-     "sun": 12,
-     "briar": 8,
-     "toad": 4,
-     "lily": 6
-    },
-    "diedTo": null,
-    "mobile": true,
-    "kills": 888
-   },
-   {
     "nickname": "Rainy Otter 45",
     "wave": 20,
     "tag": "3cc32323d8f38a38fb82a9ab",
