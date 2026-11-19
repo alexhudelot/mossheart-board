@@ -136,6 +136,36 @@
     "kills": null
    },
    {
+    "nickname": "Bonny Bee 52",
+    "wave": 16,
+    "tag": "0adaf2ce1fcf8a6eb8deef1d",
+    "at": "2026-11-15T19:46:12.912Z",
+    "seed": 4072811080,
+    "density": 64,
+    "version": "0.180.0 c675dfdc demo acts",
+    "maxDew": 319,
+    "boons": {
+     "crit_bloom": 2,
+     "photosynthesis": 1,
+     "sharp_thorns": 2,
+     "overgrowth": 2,
+     "quick_sap": 1,
+     "dew_collector": 3,
+     "spore_cloud": 3,
+     "verdant_pulse": 1
+    },
+    "towers": {
+     "thorn": 22,
+     "puff": 6,
+     "sun": 2,
+     "wisp": 2,
+     "briar": 5
+    },
+    "diedTo": "midge",
+    "mobile": false,
+    "kills": 582
+   },
+   {
     "nickname": "Bonny Finch 38",
     "wave": 15,
     "tag": "ff86766332389b3c07b7c0a7",
