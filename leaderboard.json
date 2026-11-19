@@ -71,6 +71,38 @@
     "kills": null
    },
    {
+    "nickname": "Golden Acorn 31",
+    "wave": 19,
+    "tag": "5cd777ab523073ea7b6ca2d6",
+    "at": "2026-11-15T21:58:30.173Z",
+    "seed": 3782159343,
+    "density": 48,
+    "version": "0.180.0 c675dfdc demo acts",
+    "maxDew": 444,
+    "boons": {
+     "crit_bloom": 1,
+     "quick_sap": 3,
+     "deep_roots": 3,
+     "golden_dew": 1,
+     "kindred_wisps": 3,
+     "twin_seeds": 1,
+     "solar_flare": 1,
+     "summer": 1,
+     "spore_cloud": 1,
+     "solar_focus": 2,
+     "seed_bank": 1
+    },
+    "towers": {
+     "thorn": 19,
+     "puff": 11,
+     "sun": 11,
+     "wisp": 14
+    },
+    "diedTo": "crow",
+    "mobile": false,
+    "kills": 743
+   },
+   {
     "nickname": "Clover Acorn 79",
     "wave": 18,
     "tag": "748ff900529801655fdb9d0c",
