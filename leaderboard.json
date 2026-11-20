@@ -38,6 +38,42 @@
     "kills": 1751
    },
    {
+    "nickname": "Schlumpfe",
+    "wave": 23,
+    "tag": "ddecc2cb87ecc8fc60ca375c",
+    "at": "2026-11-20T08:18:08.857Z",
+    "seed": 3354428582,
+    "density": 32,
+    "version": "0.248.0 4d46dda4 demo acts",
+    "maxDew": 591,
+    "boons": {
+     "solar_focus": 3,
+     "heartwood": 2,
+     "seed_bank": 1,
+     "puffball": 2,
+     "ripe_spores": 3,
+     "rot_bloom": 2,
+     "quick_sap": 1,
+     "wild_growth": 1,
+     "spring_rain": 2,
+     "solar_flare": 1,
+     "spore_cloud": 1,
+     "miasma": 1,
+     "evergreen": 1,
+     "verdant_pulse": 1
+    },
+    "towers": {
+     "thorn": 2,
+     "puff": 8,
+     "sun": 8,
+     "wisp": 9,
+     "toad": 3
+    },
+    "diedTo": "golem",
+    "mobile": false,
+    "kills": 919
+   },
+   {
     "nickname": "Rainy Otter 45",
     "wave": 20,
     "tag": "3cc32323d8f38a38fb82a9ab",
