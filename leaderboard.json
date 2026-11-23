@@ -3,6 +3,45 @@
  "gardens": {
   "momiji": [
    {
+    "nickname": "Schlumpfe",
+    "wave": 29,
+    "tag": "ddecc2cb87ecc8fc60ca375c",
+    "at": "2026-11-23T09:41:29.534Z",
+    "seed": 48658576,
+    "density": 32,
+    "version": "0.253.0 f980b1bb demo acts",
+    "maxDew": 644,
+    "boons": {
+     "kindred_wisps": 3,
+     "spore_cloud": 3,
+     "sticky_spores": 2,
+     "spring_rain": 2,
+     "solar_flare": 3,
+     "elder_canopy": 1,
+     "sporestorm": 1,
+     "heartwood": 3,
+     "spirit_lantern": 1,
+     "evergreen": 1,
+     "overgrowth": 3,
+     "prism": 1,
+     "puffball": 2,
+     "wild_growth": 1,
+     "quick_sap": 2,
+     "summer": 1
+    },
+    "towers": {
+     "thorn": 1,
+     "puff": 9,
+     "sun": 22,
+     "wisp": 20,
+     "lily": 3
+    },
+    "diedTo": "crow",
+    "mobile": false,
+    "kills": 1433,
+    "time": 1501
+   },
+   {
     "nickname": "alexh",
     "wave": 27,
     "tag": "4c2e6e22f0000b06020e0486",
@@ -35,43 +74,8 @@
     },
     "diedTo": "lichen",
     "mobile": false,
-    "kills": 1751
-   },
-   {
-    "nickname": "Schlumpfe",
-    "wave": 24,
-    "tag": "ddecc2cb87ecc8fc60ca375c",
-    "at": "2026-11-20T08:42:26.545Z",
-    "seed": 3913982503,
-    "density": 32,
-    "version": "0.251.0 98a1ab42 demo acts",
-    "maxDew": 800,
-    "boons": {
-     "seed_bank": 1,
-     "rot_bloom": 3,
-     "ripe_spores": 2,
-     "wild_growth": 2,
-     "sticky_spores": 3,
-     "spring_rain": 1,
-     "heart_of_oak": 1,
-     "solar_focus": 3,
-     "verdant_pulse": 1,
-     "heartwood": 3,
-     "evergreen": 1,
-     "solar_flare": 2,
-     "spore_cloud": 1,
-     "miasma": 1
-    },
-    "towers": {
-     "thorn": 3,
-     "puff": 11,
-     "sun": 12,
-     "wisp": 10,
-     "toad": 3
-    },
-    "diedTo": "midge",
-    "mobile": false,
-    "kills": 1049
+    "kills": 1751,
+    "time": null
    },
    {
     "nickname": "Rainy Otter 45",
@@ -106,7 +110,8 @@
     },
     "diedTo": null,
     "mobile": null,
-    "kills": null
+    "kills": null,
+    "time": null
    },
    {
     "nickname": "Golden Acorn 31",
@@ -138,7 +143,8 @@
     },
     "diedTo": "crow",
     "mobile": false,
-    "kills": 743
+    "kills": 743,
+    "time": null
    },
    {
     "nickname": "Clover Acorn 79",
@@ -171,7 +177,8 @@
     },
     "diedTo": "crow",
     "mobile": null,
-    "kills": null
+    "kills": null,
+    "time": null
    },
    {
     "nickname": "Bonny Bee 52",
@@ -201,7 +208,8 @@
     },
     "diedTo": "midge",
     "mobile": false,
-    "kills": 582
+    "kills": 582,
+    "time": null
    },
    {
     "nickname": "Bonny Finch 38",
@@ -231,7 +239,8 @@
     },
     "diedTo": "spirit",
     "mobile": null,
-    "kills": null
+    "kills": null,
+    "time": null
    },
    {
     "nickname": "bast",
@@ -248,7 +257,8 @@
     },
     "diedTo": "grub",
     "mobile": null,
-    "kills": null
+    "kills": null,
+    "time": null
    },
    {
     "nickname": "Cosmic Owl 67",
@@ -267,7 +277,8 @@
     },
     "diedTo": "beetle",
     "mobile": null,
-    "kills": null
+    "kills": null,
+    "time": null
    }
   ]
  }
