@@ -3,6 +3,48 @@
  "gardens": {
   "momiji": [
    {
+    "nickname": "alexh",
+    "wave": 33,
+    "tag": "46fa031354ecbf2c36a7bc09",
+    "at": "2026-11-23T23:54:07.268Z",
+    "seed": 556733962,
+    "density": 64,
+    "version": "0.253.0 f980b1bb demo acts",
+    "maxDew": 800,
+    "boons": {
+     "golden_dew": 1,
+     "solar_focus": 3,
+     "dew_collector": 1,
+     "verdant_pulse": 3,
+     "sticky_spores": 1,
+     "crit_bloom": 1,
+     "ripe_spores": 1,
+     "solar_flare": 3,
+     "moonshadow": 1,
+     "firefly_lanterns": 2,
+     "quick_sap": 3,
+     "heartwood": 1,
+     "summer": 1,
+     "rot_bloom": 1,
+     "spring_rain": 2,
+     "prism": 2,
+     "harvest_moon": 1,
+     "rainbow": 1,
+     "starswarm": 1
+    },
+    "towers": {
+     "puff": 9,
+     "sun": 31,
+     "briar": 12,
+     "toad": 6,
+     "moon": 6
+    },
+    "diedTo": "crow",
+    "mobile": true,
+    "kills": 2407,
+    "time": 2222
+   },
+   {
     "nickname": "Schlumpfe",
     "wave": 29,
     "tag": "ddecc2cb87ecc8fc60ca375c",
