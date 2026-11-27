@@ -155,6 +155,39 @@
     "time": null
    },
    {
+    "nickname": "Mossy Mouse 38",
+    "wave": 19,
+    "tag": "ef5e667420374191b41d7f09",
+    "at": "2026-11-27T00:25:36.105Z",
+    "seed": 3357849121,
+    "density": 48,
+    "version": "0.257.0 1a624199 demo acts",
+    "maxDew": 645,
+    "boons": {
+     "dew_collector": 3,
+     "overgrowth": 3,
+     "solar_focus": 2,
+     "kindred_wisps": 3,
+     "solar_flare": 1,
+     "seed_bank": 2,
+     "crit_bloom": 1,
+     "verdant_pulse": 1,
+     "bloom": 1,
+     "sharp_thorns": 1
+    },
+    "towers": {
+     "thorn": 14,
+     "puff": 13,
+     "sun": 30,
+     "wisp": 23,
+     "toad": 2
+    },
+    "diedTo": "crow",
+    "mobile": false,
+    "kills": 562,
+    "time": 1294
+   },
+   {
     "nickname": "Clover Acorn 79",
     "wave": 18,
     "tag": "748ff900529801655fdb9d0c",
